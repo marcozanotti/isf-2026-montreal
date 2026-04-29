@@ -1,4 +1,4 @@
-# 45th International Symposium on Forecasting, Montreal, 2026  
+# 46th International Symposium on Forecasting, Montreal, 2026  
 
 Material for the International Symposium on Forecasting  
 
